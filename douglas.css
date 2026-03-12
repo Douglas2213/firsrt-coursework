@@ -1,0 +1,48 @@
+.bod{
+    background-color: rgb(174, 0, 255);
+}
+.header{
+    background: rgb(23, 5, 55);
+    padding: 15px;
+    text-align: center;
+    
+}
+.paragraph{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    
+
+}
+.img{
+    display: block;
+    
+    margin: 0 auto;
+    max-width: 300px;
+    align-content: center;
+    border-radius: 30px;
+}
+
+.my-icon{
+    font-size: 50px; 
+    color: rgb(252, 216, 116);
+    margin: 20px;
+    text-align: center;
+    margin-top: 50px;
+    display: block;
+    font-size: 80px;
+}
+.my-icon:hover{
+    color: aliceblue;
+    cursor: pointer;
+
+}
+.logo {
+  
+    top: 0;
+    width: 10%;
+    background-color: white;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 100%;
+}
